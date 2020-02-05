@@ -1,3 +1,6 @@
+# 🚨 Archived! This site is now in the [liferay.design monorepo](https://github.com/liferay-design/liferay.design) 🔵
+
+
 # lexicon-site
 
 [![Built with Electric](https://img.shields.io/badge/built%20with-electric-f3c302.svg?style=flat)](http://electricjs.com)
